@@ -1,0 +1,4 @@
+.frame {
+    width: 38%; /* Make the iframe width 100% of its container */
+    height: 20px; /* Set a fixed height for better visibility */
+}
