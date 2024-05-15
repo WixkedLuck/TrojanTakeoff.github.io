@@ -255,3 +255,18 @@ section-right .container-1{
          }
 
   }
+
+/*  */
+  .Lefy{
+    
+    /* margin: auto;
+    margin-left: 40px; */
+    margin: auto;
+    margin-left: 150px;
+    margin-top: 3rem;
+    display: inline-block;
+  }
+  .rgt{
+    margin: auto;
+   
+  }
